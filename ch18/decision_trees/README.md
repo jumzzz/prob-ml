@@ -1,2 +1,0 @@
-### Key Observations
-- Greedy Algorithm may lead you to the most optimal feature, but it makes you stuck. Getting stuck means, your tree can no longer grow because it cannot divide your data into smaller partitions.
