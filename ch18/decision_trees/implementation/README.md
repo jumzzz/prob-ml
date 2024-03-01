@@ -8,4 +8,8 @@
 - Rethink on how the trees actually grow.
 2. Investigate the important hyperparameters in Decision Tree Regression on Sklearn
 - Select certain hyperparameters and implement them
-3. Figure out how to make Decision Tree faster at `min_leaves=1` 
+3. Figure out how to make Decision Tree faster at `min_leaves=1`
+
+
+## Implement Decision Tree Classifier
+1. Repurpose Regression Trees to Work as Classifier
